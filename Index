@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="da">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Julie Høyen</title>
+</head>
+
+<body>
+    <h1>Julie Høyen</h1>
+    <p>Mit navn er Julie Høyen og jeg er en 32årig kvinde, som har arbejet som tjener i 11 år </p>
+    <img src="Juliesvisitkort/Julie1sep2.jpg" alt="Julie Høyen udefor i solen på EKs udearial">
+    <img src="Juliesvisitkort/truendetjener2.jpg" alt="En truende tjener">
+</body>
+
+</html>
